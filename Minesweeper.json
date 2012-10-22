@@ -4,9 +4,6 @@
     "author": "Zzyzx Road",
     "summary": "Only one word can describe this game... BOMBS! Almost everyone can kill, but if you killers die, you take your killer together! Your goal is to get rid of the Flags before you destroy yourselves. Who will get out as the winner? (suggestions about team balance? PM Zzyzx Road)",
     "border": "*** mine mine flag mine mine flag mine mine flag mine mine flag mine mine flag mine mine flag ***",
-    "ticks": {
-        "standby": 1
-    },
     "sides": [
         {
             "side": "village",
