@@ -5,7 +5,7 @@
 		"Zzyzx Road",
 		"Magnemite"
 	],
-    "summary": "In memory of PaperRemote. He is gone, but lives on in spirit. | The Chinchous have came from the Arctic to invade the Pacific Ocean! Notes: Lanturn and Lumineon can daykill. Octillery has a revealing daykill. Tentacool and Tentacruel can poison. Alomomola has 50 votes. One of the Mantykes has -99 votes. May the best fish/octopus/stingray/etc. win! *V4.2: Tentacool and Tentacruel now have team reveal. Tentacool now has -2 votes. PM bugs to Chinchou!*",
+    "summary": "In memory of PaperRemote. He is gone, but lives on in spirit. | The Chinchous have came from the Arctic to invade the Pacific Ocean! Notes: Lanturn and Lumineon can daykill. Octillery has a revealing daykill. Tentacool and Tentacruel can poison. Alomomola has 50 votes. One of the Mantykes has -99 votes. May the best fish/octopus/stingray/etc. win! *V4.2: Tentacool and Tentacruel now have team reveal. Tentacool now has -2 votes. PM bugs to C\u200bhinchou!*",
     "sides": [
         {
             "side": "village",
@@ -416,7 +416,7 @@
         },
         {
             "role": "chin1",
-            "translation": "Chinchou",
+            "translation": "C\u200bhinchou",
             "side": "chin",
             "help": "You are a Chinchou! YOU ARE COMPLETELY AWESOME! The best Pokemon evar! Anyway, you may kill 1 person per night(With /kill).",
             "actions": {
@@ -431,7 +431,7 @@
         },
         {
             "role": "chin2",
-            "translation": "Chinchou",
+            "translation": "C\u200bhinchou",
             "side": "chin",
             "help": "You are a Chinchou! YOU ARE COMPLETELY AWESOME! The best Pokemon evar! Anyway, you may kill 1 person per night(With /kill).",
             "actions": {
@@ -446,7 +446,7 @@
         },
         {
             "role": "chin3",
-            "translation": "Chinchou",
+            "translation": "C\u200bhinchou",
             "side": "chin",
             "help": "You are a Chinchou! YOU ARE COMPLETELY AWESOME! The best Pokemon evar! Anyway, you may kill 1 person per night(With /kill).",
             "actions": {
@@ -518,6 +518,6 @@
         "lum",
         "vigi"
     ],
-    "killmsg": "±Death: ~Player~ (~Role~) was killed!",
-    "killusermsg": "±Death: You were killed!"
+    "killmsg": "ï¿½Death: ~Player~ (~Role~) was killed!",
+    "killusermsg": "ï¿½Death: You were killed!"
 }
